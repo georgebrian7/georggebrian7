@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Keshi limited](keshilimited.com)
 
-- 🌱 I’m currently learning **AI engineering**
+- 🌱 I’m currently learning **AI engineering at FLYRANK AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/georgebrian7](https://github.com/georgebrian7)
 
